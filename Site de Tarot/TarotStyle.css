@@ -1,0 +1,57 @@
+#Cabeza{
+    background-color: #7e0000;
+    width: 500px;
+    border-radius: 20px;
+    display: grid;
+    place-items: center;
+    margin: auto;
+
+}
+
+#Centro{
+    background-color: #7e0000;
+    width: 900px;
+    height: auto;
+    margin: auto;
+    padding: 7px;
+    border: solid 5px #5d1a1ae8;
+    border-bottom: none;
+    border-radius: 20px 20px 0 0;
+}
+
+body{
+    width: 90%;
+    margin: auto;
+    background-image:url(https://i.pinimg.com/736x/7d/75/a5/7d75a5e24173087dec3c4b21f9d8b34f.jpg);
+    background-color: black;
+    background-size:cover;
+}
+
+h1{
+    text-align: center;
+    font-family:cursive;
+    color: #2d1616;
+    border-bottom: double #F00;
+    width: 300px;
+}
+
+img{
+    float:left;
+    width: 150px;
+    height: 250px;
+    margin: 15px;
+
+}
+
+.par{
+    float: left;
+}
+
+.impar{
+    float: right;
+}
+
+p{ 
+    line-height:20px;
+    text-indent: 40px;
+}
